@@ -2,7 +2,6 @@
 
 I'm **Gulab Chaudhari**, a passionate **Full-Stack Mobile & Web Application Developer**. I specialize in building high-performance, real-time cross-platform mobile networks and scalable backend systems.
 
-Currently architecture-designing and scaling digital products under **Timeszz Holdings**.
 
 ---
 
