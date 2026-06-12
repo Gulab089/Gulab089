@@ -33,4 +33,4 @@ Currently pursuing my IT degree and building digital products under **Timeszz Ho
 ### 📬 Reach me here:
 
 * **Email:** gulabmac45@gmail.com
-* **My Projects:** Keep an eye out for **CrickChat** and **RankHub**! 🚀
+* **My Projects:** Keep an eye out for **CrickChat** and **RankHub**! 
