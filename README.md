@@ -7,14 +7,6 @@ Currently architecture-designing and scaling digital products under **Timeszz Ho
 ---
 
 ### 🛠️ Languages and Tools
-#### ⚙️ Backend, Frameworks & Core Languages
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs" height="28"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="express" height="28"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript" height="28"/></a>
-  <a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="cpp" height="28"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python" height="28"/></a>
-</p>
 
 #### 📱 Frontend & Mobile Development
 <p align="left">
