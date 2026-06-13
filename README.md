@@ -39,11 +39,13 @@
 
 ---
 
+---
+
 ### 📊 Git Metrics & Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gulab089&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Gulab's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulab089&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gulab089&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Gulab's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulab089&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Langs" height="160" />
 </p>
 
 <p align="left">
