@@ -41,22 +41,17 @@
 
 ---
 
----
-
 ### 📊 Git Metrics & Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gulab089&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Gulab's GitHub Stats" height="165" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gulab089&repo=CrickChat&theme=tokyonight&hide_border=true" alt="Featured Project" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gulab089&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Gulab's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulab089&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Langs" height="160" />
 </p>
 
-#### ⚡ Proficiency & Domain Focus
-```text
-Flutter & Dart (Cross-Platform Mobile)  ||████████████████████████████████████████|| 100%
-Firebase & Cloud Infrastructure        ||██████████████████████████████████░░░░░░|| 85%
-Node.js & Backend Architecture         ||████████████████████████████░░░░░░░░░░░░|| 70%
-Data Structures & Logic (C++/Python)   ||██████████████████████░░░░░░░░░░░░░░░░░░|| 60%
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gulab089&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
+
 ---
 
 ### 📈 Activity Graph
