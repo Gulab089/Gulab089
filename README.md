@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Gulab Chaudhari
 
-**Full-Stack Mobile & Web Application Developer** *Architecting & scaling production-ready digital products under **Timeszz Holdings***
+**Full-Stack Mobile & Web Application Developer** *Architecting & scaling production-ready digital products 
 
 <p align="left">
   <img src="https://komarev.com/ghvc/?username=Gulab089&color=0075c2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -64,4 +64,4 @@
 
 [![Email](https://img.shields.io/badge/Email-gulabmac45%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:gulabmac45@gmail.com)
 
-*🚀 Currently scaling **CrickChat** 🏏 and architecting the core engine for **RankHub** 🧠!*
+*🚀 Currently scaling **CrickChat** 🏏 
